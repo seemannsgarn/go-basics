@@ -26,10 +26,10 @@ for {
 
 ## define variables
 ```
-s := ""             // can define only in function
-var s string        // by default for using
-var s = ""          // for 2 or more variables
-var s string = ""   // so unnecessarily
+s := ""             # can define only in function
+var s string        # by default for using
+var s = ""          # for 2 or more variables
+var s string = ""   # so unnecessarily
 ```
 ## nil
 like None in Python

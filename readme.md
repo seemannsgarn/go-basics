@@ -1,5 +1,13 @@
 # golang
 
+## key words
+break       default     func    interface   select
+case        defer       go      map         struct
+chan        else        goto    package     switch
+const       fallthrough if      range       type
+continue    for         import  return      var
+
+
 ## Verbs
 %d          // decimal integer       
 %x,%o,%b    // integer 16,8,2
